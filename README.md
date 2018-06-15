@@ -1,2 +1,2 @@
 # Spark-Scala
-Some code to learn Scala
+Some codes from Frank Kane (Udemy) course to learn Scala
